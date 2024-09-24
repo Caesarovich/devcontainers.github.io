@@ -936,4 +936,4 @@
   maintainer: Caesarovich
   contact: https://github.com/Caesarovich/devcontainer-feature-crystal/issues
   repository: https://github.com/Caesarovich/devcontainer-feature-crystal
-  ociReference: ghcr.io/Caesarovich/devcontainer-feature-crystal
+  ociReference: ghcr.io/caesarovich/devcontainer-feature-crystal
